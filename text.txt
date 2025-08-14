@@ -1,0 +1,6 @@
+** clone repo -- https://github.com/docker/python-docker
+1) git init
+2) docker init
+-- Answer all the docker questions
+3) add the command to run your app in requirements.txt as said by docker.
+The results will reflect in docker github and four new files will be created by docker using docker init.
